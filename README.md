@@ -35,13 +35,17 @@ Ensure you have the following software installed:
 
 2. **Install dependencies for both the frontend and backend:**
 
-# Install backend dependencies
+Install backend dependencies
+```bash
 cd backend
 npm install
+```
 
-# Install frontend dependencies
+Install frontend dependencies
+```bash
 cd ../frontend
 npm install
+```
 
 3. **Set up environment variables:**
 
